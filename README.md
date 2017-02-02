@@ -3,6 +3,6 @@ Sistema simples de estoque para aprender a utilizar Delphi na plataforma Lazarus
 
 ## Instruções de Instalação
  * Copie a pasta M3T Estoque para a raiz do disco C:/
- * Abra a pasta e execute o arquivo 'set_odbc.bat'
+ * Abra a pasta e execute  o arquivo 'set_odbc.bat' (Como administrador)
  * Se tudo deu certo, já dá pra executar o sistema tanto pelo arquivo compilado tanto pelo depurador do Lazarus.
 
